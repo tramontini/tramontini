@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tramontini/tramontini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! As you can see there's not so much going on here, my job get all my commits! Sorry about that!
+
+![image](https://github.com/tramontini/tramontini/blob/master/lost-travolta.gif)
