@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! As you can see there's not so much going on here, my job get all my commits! Sorry about that!
+![image](lost-travolta.gif)
+_"Where is this man commits?_"
 
-![image](https://github.com/tramontini/tramontini/blob/master/lost-travolta.gif)
+As you can see there's not so much going on here, my job get all my commits! Sorry about that!
+
+But you can check some posts I'm writing at [medium](https://medium.com/@tramontini)!
